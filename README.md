@@ -8,15 +8,22 @@ text “Dear <username>, Welcome to our app”.
 
 ------------------------------------------------------------------------------------------
 
-Instructions(Steps) for using this Project
+Instructions (Steps) for using this Project
 
 Step 1: Download or clone this repository.
+
 Step 2: Go to your project directory.
+
 Step 3: Open cmd (or powershell) in that directory.
+
 Step 4: Install all the packages by using the command "npm install".
+
 Step 5: Go to routes folder and open "tmain.js" file.
+
 Step 6: Change the user1 and pass1 to any gmail id and password for SMTP (or welcome mail).
+
 Step 7: Go back to the root directory and type "node app.js" in cmd or powershell to run the code.
+
 Step 8: Type "http://localhost:5000/" in your browser to start with the project
 
 Some notes

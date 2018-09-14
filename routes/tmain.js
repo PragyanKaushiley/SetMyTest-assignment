@@ -16,8 +16,8 @@ var app = firebase.initializeApp({
 
 var ref1 = firebase.database().ref('users/');
 var ref2 = firebase.database().ref('userInformation/');
-var user1= 'pouramoursilvousplait@gmail.com' ;//enter your email
-var pass1= 'Fortheloveoflife' ;//enter your password
+var user1= 'Your-Gmail-ID@gmail.com' ;//enter your email
+var pass1= 'Your-password' ;//enter your password
 
 router.get('/', (req,res) => {
   res.render('./index/Login');

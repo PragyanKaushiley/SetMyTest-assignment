@@ -34,7 +34,8 @@ Some notes
                 https://www.google.com/settings/security/lesssecureapps
         and enable less secure apps. This will enable the mail functionality.
         
-    (ii) Currently "feedback@onmyfingertips.com" has been given permission, to view this project on firebase console.
+    (ii) Currently "feedback@onmyfingertips.com" has been given permission, to view this project on firebase console 
+         and can be viewed if you go to "https://setmytest-2a759.firebaseio.com"
         
 3. If any query feel free to contact me at:   pragyanky@gmail.com
 
